@@ -9,6 +9,7 @@ Before Install:
 	C:\Oceaneering\Processing\oii_pkgs
 
 -Copy all of the following folder found in the oii_pkgs subfolder of the application folder to the directory listed above
+
 	-tides
 		-additional content needed for tide file creation
 
